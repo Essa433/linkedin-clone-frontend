@@ -14,7 +14,7 @@ export function ProfilePage() {
 					<input type='file' className='input-file' id="imgInp" />
 					<button className='input-btn upload' id='input_btn'><i className="fa fa-camera cam"></i></button>
 					<img className="cover" id="blah" src="https://media-exp1.licdn.com/dms/image/C4D16AQFS1cnJZfeaow/profile-displaybackgroundimage-shrink_350_1400/0/1661898002461?e=1667433600&v=beta&t=EaKn2IX0db8xcYOdoPjKcWrYA_XmMPUeQLMQyployTs" alt="" />
-					<div className="dp-container"><img className="dp" src='https://media-exp1.licdn.com/dms/image/D4D35AQEGx_kaTSiVyg/profile-framedphoto-shrink_400_400/0/1661898275920?e=1662548400&v=beta&t=4fTdW_OHmlh9dWuFitBs5QP8g5xdxbKjS34gdoMTtA0' alt="" />
+					<div className="dp-container"><img className="dp" src='https://media-exp1.licdn.com/dms/image/D4D35AQEGx_kaTSiVyg/profile-framedphoto-shrink_400_400/0/1661898275920?e=1667246400&v=beta&t=11RzlZY2jqAWm62arOGuldxF362mVmtYcXKEK-B4Jgw' alt="" />
 						<button className='pen-btn upload'><i className="fa fa-pencil pen"></i></button>
 
 

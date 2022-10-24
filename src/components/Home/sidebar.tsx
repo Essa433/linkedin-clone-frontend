@@ -12,7 +12,7 @@ export function Sidebar() {
 				/>
 				<Link to="/profile"><img
 					className='avatar-sidebar'
-					src='https://media-exp1.licdn.com/dms/image/D4D35AQEGx_kaTSiVyg/profile-framedphoto-shrink_100_100/0/1661898275920?e=1662548400&v=beta&t=FYjhT18Lc7TzajiEGi2QwDl5CPePL7q_UUrhtywPF8Y'
+					src='https://media-exp1.licdn.com/dms/image/D4D35AQEGx_kaTSiVyg/profile-framedphoto-shrink_100_100/0/1661898275920?e=1667246400&v=beta&t=SIJa1SOIHpsVGAfCHeBFa-W-oc9ukezmThcqSjzNUYU'
 					alt=''
 				/></Link>
 				<h2>Essa</h2>

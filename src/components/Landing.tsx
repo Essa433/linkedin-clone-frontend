@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 export function Landing() {
 	return (
 		<>
-		<div>
+			<div className="landing-container">
 				<header>
 					<div className='logo'>
 						<h2>Linked</h2>
@@ -14,7 +14,7 @@ export function Landing() {
 
 					<div className='mainmenu'>
 						<nav className='main-nav'>
-						<Link to="/sign-up"><ul>
+							<Link to="/sign-up"><ul>
 								<button className='join'>Join now</button>
 							</ul></ Link>
 						</nav>
@@ -55,7 +55,7 @@ export function Landing() {
 						<h1>Welcome to your <br /> professional community</h1>
 					</div>
 					<div className=''>
-					<img src='https://media.licdn.com/media//AAYQAgSrAAgAAQAAAAAAADCLr3coQt8AQiyj4giyWxfjsg.svg' alt="" />
+						<img src='https://media.licdn.com/media//AAYQAgSrAAgAAQAAAAAAADCLr3coQt8AQiyj4giyWxfjsg.svg' alt="" />
 
 					</div>
 				</section>

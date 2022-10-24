@@ -16,19 +16,19 @@ export function CompanyPosts() {
                     </div>
                     <div className='imags-company-profile'>
 
-                        <img className='img1-compony-works' src="https://media-exp1.licdn.com/dms/image/C4D09AQEb1qVe2Ih8aQ/company-photo_900_600/0/1584629517468?e=1665014400&v=beta&t=Hqk3YL5r8YaA5_42t5IGyUnMRrnNhvcLjMR-A2ZvSQg" alt="" />
-                        <img className='img1-compony-works' src="https://media-exp1.licdn.com/dms/image/C4D09AQEJDDYaAJPcMw/company-photo_900_600/0/1624949210146?e=1665014400&v=beta&t=LDh8TkgtTDU4TSgC37racBLEbwmVnl8IYgrKIb2A01E" alt="" />
+                        <img className='img1-compony-works' src="https://media-exp1.licdn.com/dms/image/C4E22AQFfQL4VG82vqA/feedshare-shrink_800/0/1652018524561?e=1669248000&v=beta&t=khUy8rNbrKGqMh0NBQyV03EQvDp1kvbRUZIFo2-GPEs" alt="" />
+                        <img className='img1-compony-works' src="https://media-exp1.licdn.com/dms/image/C4E22AQF075RNOmOl4Q/feedshare-shrink_2048_1536/0/1652080839420?e=1669248000&v=beta&t=Ybfr8GuJlU95dPMO8oa3EsGIaHY5sN0nUrn0lL650lw" alt="" />
                         <div className='small-imags-company-profile'>
-                            <img className='img2-compony-works' src="https://media-exp1.licdn.com/dms/image/C4D09AQFq-LIAxhilWg/company-photo_900_600/0/1584629528420?e=1665014400&v=beta&t=VLkZb59no--tvgUkk0xuBC7HINvSp-pCn0-YQ9BMDU4" alt="" />
-                            <img className='img2-compony-works' src="https://media-exp1.licdn.com/dms/image/C4D09AQEknZdz-rnOFg/company-photo_900_600/0/1624949234508?e=1665014400&v=beta&t=K4NVW6O_IWzLPp_NcwzHddKClH4TEkr7f-aCuyTVndg" alt="" />
-                            <img className='img2-compony-works' src="https://media-exp1.licdn.com/dms/image/C4D09AQEb1qVe2Ih8aQ/company-photo_900_600/0/1584629517468?e=1665014400&v=beta&t=Hqk3YL5r8YaA5_42t5IGyUnMRrnNhvcLjMR-A2ZvSQg" alt="" />
-                            <img className='img2-compony-works' src="https://media-exp1.licdn.com/dms/image/C4D09AQGHe5cR_4x1CQ/company-photo_900_600/0/1584629503111?e=1665014400&v=beta&t=24oXDnEc8SfUjWE3h-hjQeQ3UuiIIKw3pMJCXaLwkIc" alt="" />
+                            <img className='img2-compony-works' src="https://media-exp1.licdn.com/dms/image/C4E22AQExShSifnuRew/feedshare-shrink_1280/0/1655656031094?e=1669248000&v=beta&t=ts-_CMTzJnZtI2MuxnGmLSj1cyxwt5ku4EvDgc0d2SE" alt="" />
+                            <img className='img2-compony-works' src="https://media-exp1.licdn.com/dms/image/C4E22AQFahJjBKqp5Vw/feedshare-shrink_1280/0/1655461414990?e=1669248000&v=beta&t=fugf0Av18I7QbR_jeCh70lqhl0IyJMpLIOhIyqYYsFA" alt="" />
+                            <img className='img2-compony-works' src="https://media-exp1.licdn.com/dms/image/C4E22AQHjqtLZy1GMrg/feedshare-shrink_1280/0/1663866122483?e=1669248000&v=beta&t=P1cepaoWt68XUVIuBNcImCXeaiza1NY-rNO118cYFdk" alt="" />
+                            <img className='img2-compony-works' src="https://media-exp1.licdn.com/dms/image/C4E22AQH088s0koyFTA/feedshare-shrink_1280/0/1659266182263?e=1669248000&v=beta&t=ffO1_YT3JtcWenNGFfmflBrZtZU6u4LkdUd1XcTSdQM" alt="" />
 
                         </div>
                     </div>
                     <hr />
                     <div className='sub-box-footer'>
-                        <a href="https://www.linkedin.com/company/solutionsbystc/life/ce81af12-2db5-431e-a538-0065fe9e5fa5/"><p> Solustion by stc تعرف على طبيعة العمل في شركة</p></a>
+                        <a href="https://www.linkedin.com/company/biacsaudi/life/biac/"><p> BIAC تعرف على طبيعة العمل في شركة</p></a>
                     </div>
                 </div>
             </div>

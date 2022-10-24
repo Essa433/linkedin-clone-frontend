@@ -48,7 +48,7 @@ export function Nav() {
 					</div></a>
 
 					<Link to="/profile"><div className='headerOption'>
-						<img className='avtar-nav' src="https://media-exp1.licdn.com/dms/image/D4D35AQEGx_kaTSiVyg/profile-framedphoto-shrink_100_100/0/1661898275920?e=1662548400&v=beta&t=FYjhT18Lc7TzajiEGi2QwDl5CPePL7q_UUrhtywPF8Y" alt="" />
+						<img className='avtar-nav' src="https://media-exp1.licdn.com/dms/image/D4D35AQEGx_kaTSiVyg/profile-framedphoto-shrink_100_100/0/1661898275920?e=1667246400&v=beta&t=SIJa1SOIHpsVGAfCHeBFa-W-oc9ukezmThcqSjzNUYU" alt="" />
 						<h3>My Profile</h3>
 					</div></Link>
 

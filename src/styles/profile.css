@@ -50,6 +50,7 @@ h6{
     border-radius: 20px;
     position: relative;
     border: 1px solid rgba(0, 0, 0, 0.08);
+
 }
 .contain-content{
     display: flex;
@@ -297,7 +298,7 @@ span {
     width: 100%;
     min-height: 200px;
     background-color: white;
-    margin: 0;
+    margin: 20px 0 0 0;
     border-radius: 20px;
     position: relative;
     border: 1px solid rgba(0, 0, 0, 0.08);
